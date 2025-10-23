@@ -1,0 +1,259 @@
+C:\Users\Kash\source\repos\Demo-App\Demo-App\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Kash\source\repos\Demo-App\Demo-App\bin\Debug\net7.0\appsettings.json
+C:\Users\Kash\source\repos\Demo-App\Demo-App\bin\Debug\net7.0\Demo-App.exe
+C:\Users\Kash\source\repos\Demo-App\Demo-App\bin\Debug\net7.0\Demo-App.deps.json
+C:\Users\Kash\source\repos\Demo-App\Demo-App\bin\Debug\net7.0\Demo-App.runtimeconfig.json
+C:\Users\Kash\source\repos\Demo-App\Demo-App\bin\Debug\net7.0\Demo-App.dll
+C:\Users\Kash\source\repos\Demo-App\Demo-App\bin\Debug\net7.0\Demo-App.pdb
+C:\Users\Kash\source\repos\Demo-App\Demo-App\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Kash\source\repos\Demo-App\Demo-App\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Kash\source\repos\Demo-App\Demo-App\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Kash\source\repos\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Kash\source\repos\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Kash\source\repos\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Kash\source\repos\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Kash\source\repos\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Kash\source\repos\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Kash\source\repos\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Kash\source\repos\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Kash\source\repos\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Kash\source\repos\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Kash\source\repos\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Kash\source\repos\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Kash\source\repos\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Kash\source\repos\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Kash\source\repos\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Kash\source\repos\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Kash\source\repos\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Kash\source\repos\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Kash\source\repos\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Kash\source\repos\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Kash\source\repos\Demo-App\Demo-App\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Kash\source\repos\Demo-App\Demo-App\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Kash\source\repos\Demo-App\Demo-App\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Kash\source\repos\Demo-App\Demo-App\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Kash\source\repos\Demo-App\Demo-App\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Kash\source\repos\Demo-App\Demo-App\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Kash\source\repos\Demo-App\Demo-App\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Kash\source\repos\Demo-App\Demo-App\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Kash\source\repos\Demo-App\Demo-App\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Kash\source\repos\Demo-App\Demo-App\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Kash\source\repos\Demo-App\Demo-App\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kash\source\repos\Demo-App\Demo-App\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Kash\source\repos\Demo-App\Demo-App\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Kash\source\repos\Demo-App\Demo-App\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kash\source\repos\Demo-App\Demo-App\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kash\source\repos\Demo-App\Demo-App\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kash\source\repos\Demo-App\Demo-App\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kash\source\repos\Demo-App\Demo-App\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kash\source\repos\Demo-App\Demo-App\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kash\source\repos\Demo-App\Demo-App\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Kash\source\repos\Demo-App\Demo-App\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Kash\source\repos\Demo-App\Demo-App\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Kash\source\repos\Demo-App\Demo-App\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Kash\source\repos\Demo-App\Demo-App\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kash\source\repos\Demo-App\Demo-App\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Kash\source\repos\Demo-App\Demo-App\obj\Debug\net7.0\Demo-App.csproj.AssemblyReference.cache
+C:\Users\Kash\source\repos\Demo-App\Demo-App\obj\Debug\net7.0\Demo-App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kash\source\repos\Demo-App\Demo-App\obj\Debug\net7.0\Demo-App.AssemblyInfoInputs.cache
+C:\Users\Kash\source\repos\Demo-App\Demo-App\obj\Debug\net7.0\Demo-App.AssemblyInfo.cs
+C:\Users\Kash\source\repos\Demo-App\Demo-App\obj\Debug\net7.0\Demo-App.csproj.CoreCompileInputs.cache
+C:\Users\Kash\source\repos\Demo-App\Demo-App\obj\Debug\net7.0\Demo-App.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kash\source\repos\Demo-App\Demo-App\obj\Debug\net7.0\Demo-App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kash\source\repos\Demo-App\Demo-App\obj\Debug\net7.0\staticwebassets\msbuild.Demo-App.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Kash\source\repos\Demo-App\Demo-App\obj\Debug\net7.0\staticwebassets\msbuild.build.Demo-App.props
+C:\Users\Kash\source\repos\Demo-App\Demo-App\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Demo-App.props
+C:\Users\Kash\source\repos\Demo-App\Demo-App\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Demo-App.props
+C:\Users\Kash\source\repos\Demo-App\Demo-App\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Kash\source\repos\Demo-App\Demo-App\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Kash\source\repos\Demo-App\Demo-App\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Kash\source\repos\Demo-App\Demo-App\obj\Debug\net7.0\scopedcss\bundle\Demo-App.styles.css
+C:\Users\Kash\source\repos\Demo-App\Demo-App\obj\Debug\net7.0\Demo-App.csproj.CopyComplete
+C:\Users\Kash\source\repos\Demo-App\Demo-App\obj\Debug\net7.0\Demo-App.dll
+C:\Users\Kash\source\repos\Demo-App\Demo-App\obj\Debug\net7.0\refint\Demo-App.dll
+C:\Users\Kash\source\repos\Demo-App\Demo-App\obj\Debug\net7.0\Demo-App.pdb
+C:\Users\Kash\source\repos\Demo-App\Demo-App\obj\Debug\net7.0\Demo-App.genruntimeconfig.cache
+C:\Users\Kash\source\repos\Demo-App\Demo-App\obj\Debug\net7.0\ref\Demo-App.dll
+C:\Users\Kash\source\repos\Demo-App\Demo-App\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Kash\source\repos\Demo-App\Demo-App\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Kash\source\repos\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Kash\source\repos\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Kash\source\repos\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Kash\source\repos\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Kash\source\repos\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Kash\source\repos\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Kash\source\repos\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\obj\Debug\net7.0\Demo-App.csproj.AssemblyReference.cache
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\obj\Debug\net7.0\Demo-App.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\obj\Debug\net7.0\Demo-App.AssemblyInfoInputs.cache
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\obj\Debug\net7.0\Demo-App.AssemblyInfo.cs
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\obj\Debug\net7.0\Demo-App.csproj.CoreCompileInputs.cache
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\obj\Debug\net7.0\Demo-App.MvcApplicationPartsAssemblyInfo.cs
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\obj\Debug\net7.0\Demo-App.MvcApplicationPartsAssemblyInfo.cache
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\obj\Debug\net7.0\Demo-App.dll
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\obj\Debug\net7.0\refint\Demo-App.dll
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\obj\Debug\net7.0\Demo-App.pdb
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\appsettings.Development.json
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\appsettings.json
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Demo-App.exe
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Demo-App.deps.json
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Demo-App.runtimeconfig.json
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Demo-App.dll
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Demo-App.pdb
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\AutoMapper.dll
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Azure.Core.dll
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Azure.Identity.dll
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Humanizer.dll
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\System.CodeDom.dll
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\System.Memory.Data.dll
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\obj\Debug\net7.0\staticwebassets\msbuild.Demo-App.Microsoft.AspNetCore.StaticWebAssets.props
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\obj\Debug\net7.0\staticwebassets\msbuild.build.Demo-App.props
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Demo-App.props
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Demo-App.props
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\obj\Debug\net7.0\staticwebassets.pack.json
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\obj\Debug\net7.0\staticwebassets.build.json
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\obj\Debug\net7.0\staticwebassets.development.json
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\obj\Debug\net7.0\scopedcss\bundle\Demo-App.styles.css
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\obj\Debug\net7.0\Demo-App.csproj.CopyComplete
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\obj\Debug\net7.0\Demo-App.genruntimeconfig.cache
+D:\.Net Project\Web-API-.Net-Core\Demo-App\Demo-App\obj\Debug\net7.0\ref\Demo-App.dll
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\appsettings.json
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Demo-App.staticwebassets.endpoints.json
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Demo-App.exe
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Demo-App.deps.json
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Demo-App.runtimeconfig.json
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Demo-App.dll
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Demo-App.pdb
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Humanizer.dll
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\obj\Debug\net7.0\Demo-App.csproj.AssemblyReference.cache
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\obj\Debug\net7.0\rpswa.dswa.cache.json
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\obj\Debug\net7.0\Demo-App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\obj\Debug\net7.0\Demo-App.AssemblyInfoInputs.cache
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\obj\Debug\net7.0\Demo-App.AssemblyInfo.cs
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\obj\Debug\net7.0\Demo-App.csproj.CoreCompileInputs.cache
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\obj\Debug\net7.0\Demo-App.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\obj\Debug\net7.0\Demo-App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\obj\Debug\net7.0\Demo-App.sourcelink.json
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\obj\Debug\net7.0\rjimswa.dswa.cache.json
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\obj\Debug\net7.0\rjsmrazor.dswa.cache.json
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\obj\Debug\net7.0\rjsmcshtml.dswa.cache.json
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\obj\Debug\net7.0\scopedcss\bundle\Demo-App.styles.css
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\obj\Debug\net7.0\staticwebassets.build.json.cache
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\obj\Debug\net7.0\swae.build.ex.cache
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\obj\Debug\net7.0\Demo-App.csproj.Up2Date
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\obj\Debug\net7.0\Demo-App.dll
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\obj\Debug\net7.0\refint\Demo-App.dll
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\obj\Debug\net7.0\Demo-App.pdb
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\obj\Debug\net7.0\Demo-App.genruntimeconfig.cache
+C:\Users\ripfu\Desktop\Project\Web-API-.Net-Core\Demo-App\Demo-App\obj\Debug\net7.0\ref\Demo-App.dll
