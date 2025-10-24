@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 
@@ -1624,6 +1625,41 @@ dotnet restore
 # Apply migrations
 dotnet ef database update
 
+=======
+# User Authentication System – Documentation Overview
+
+A simple system for user login and updating personal details using **C# backend, MySQL database, and Angular/TypeScript frontend**. Features secure password hashing (BCrypt) and JWT-based authentication.
+
+---
+
+## Features
+
+- Login with email & password  
+- Update first name & last name  
+- Passwords securely hashed  
+- Token-based authentication  
+- Responsive Angular frontend  
+
+---
+
+## Quick Setup Backend
+
+```bash
+# Clone repo
+git clone <repo_url>
+
+# Navigate to backend folder
+cd backend
+
+# Restore packages
+dotnet restore
+
+# Set MySQL connection in appsettings.json
+
+# Apply migrations
+dotnet ef database update
+
+>>>>>>> b65fa80d98de8449c607de358bb63bba85c1d52f
 # Run backend
 dotnet run
 Database
@@ -1691,7 +1727,11 @@ API Endpoints
 Method	Endpoint	Description	Authentication
 POST	/auth/login	Authenticate user, return JWT	No
 POST	/auth/register	Register a new user	No
+<<<<<<< HEAD
 PATCH	/user/update	Update first_name &amp; last_name	Requires JWT
+=======
+PATCH	/user/update	Update first_name & last_name	Requires JWT
+>>>>>>> b65fa80d98de8449c607de358bb63bba85c1d52f
 
 Security
 Passwords hashed with BCrypt
@@ -1722,6 +1762,7 @@ frontend/
 │   └── main.ts
 └── angular.json
 pgsql
+<<<<<<< HEAD
 Copy code"><pre><span class="pl-c"><span class="pl-c">#</span> Clone repo</span>
 git clone <span class="pl-k">&lt;</span>repo_url<span class="pl-k">&gt;</span>
 
@@ -2023,3 +2064,6 @@ Copy code</pre></div>
   </body>
 </html>
 
+=======
+Copy code
+>>>>>>> b65fa80d98de8449c607de358bb63bba85c1d52f
